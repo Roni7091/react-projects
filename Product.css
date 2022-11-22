@@ -1,0 +1,18 @@
+.contents{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    gap: 20px;
+   
+   
+
+}
+.content1{
+    height: 100px;
+    background-color: rgb(229, 237, 116);
+    border: 2px solid black;
+    
+    font-weight: 35px;
+}
+a{
+    color: black;
+}
